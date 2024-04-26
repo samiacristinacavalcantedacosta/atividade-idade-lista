@@ -1,0 +1,15 @@
+let idade = prompt("insira sua idade")
+let nome = ("insira seu nome")
+
+
+if (idade >= 18){
+alert(sim, você está na lista)
+
+} else if (idade < 18){
+alert ("você nao está na lista")
+
+}else if (nome == Samia); (nome Nauany){
+
+
+
+}
